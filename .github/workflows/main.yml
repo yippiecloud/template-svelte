@@ -23,4 +23,5 @@ jobs:
       - name: Deploy
         run: npm run deploy
         env:
-          YIPPIE_ENV: m
+          YIPPIE_USERNAME: ${{ secrets.YIPPIE_USERNAME }}
+          YIPPIE_PASSWORD: ${{ secrets.YIPPIE_PASSWORD }}
