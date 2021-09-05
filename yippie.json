@@ -1,3 +1,5 @@
 {
-  "id": "bokktb"
+  "type": "static",
+  "environment": "production",
+  "description": "A template to build a Svelte single page application."
 }
