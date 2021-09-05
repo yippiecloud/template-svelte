@@ -1,1 +1,1 @@
-# template-svelte
+# Svelte Template
