@@ -1,5 +1,5 @@
 {
   "type": "static",
   "environment": "production",
-  "description": "A template to build a Svelte single page application."
+  "description": "A yippie cloud template to build and deploy a Svelte single page application."
 }
